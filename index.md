@@ -1,8 +1,5 @@
-See our projects
-----------------
+See *our projects* on [Github](https://github.com/szegedai)
 
-on [Github](https://github.com/szegedai)
-
-![HuSpaCy](/images/dep.png "HuSpaCy")
+along with ![HuSpaCy](/images/dep.png "HuSpaCy" =25x)
 
 We are consortium members of [MILAB](https://mi.nemzetilabor.hu/) 
