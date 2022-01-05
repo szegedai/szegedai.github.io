@@ -1,5 +1,8 @@
-See *our projects* on [Github](https://github.com/szegedai)
+See **our projects** on [Github](https://github.com/szegedai)
+along with 
 
-along with ![HuSpaCy](/images/dep.png "HuSpaCy")
+<a href="https://pypi.org/project/huspacy/"><img src="/images/dep.png" alt="HuSpaCy" style="width:200px;"/><p>HuSpaCy</p></a>
 
-We are consortium members of [MILAB](https://mi.nemzetilabor.hu/) 
+We are consortium members of [MILAB](https://mi.nemzetilabor.hu/).
+
+For historical projects please visit [this page](https://rgai.inf.u-szeged.hu/).
