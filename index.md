@@ -2,7 +2,7 @@
 
 See our projects on [**Github**](https://github.com/szegedai).
 
-<a href="https://mi.nemzetilabor.hu/"><img src="/images/milab.png" alt="MILAB" style="width:200px;"/></a>
+<a href="https://mi.nemzetilabor.hu/"><img src="/images/milab.png" alt="MILAB" style="width:300px;"/></a>
 <a href="https://pypi.org/project/huspacy/"><img src="/images/huspacy.jpg" alt="HuSpaCy" style="width:200px;"/></a>
 
 For historical projects please visit [this page](https://rgai.inf.u-szeged.hu/).
